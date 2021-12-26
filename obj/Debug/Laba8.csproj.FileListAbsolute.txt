@@ -1,0 +1,10 @@
+C:\Users\Илья\Desktop\Выполненные работы\ООП\Laba8\bin\Debug\Laba8.exe.config
+C:\Users\Илья\Desktop\Выполненные работы\ООП\Laba8\bin\Debug\Laba8.exe
+C:\Users\Илья\Desktop\Выполненные работы\ООП\Laba8\bin\Debug\Laba8.pdb
+C:\Users\Илья\Desktop\Выполненные работы\ООП\Laba8\obj\Debug\Laba8.csproj.AssemblyReference.cache
+C:\Users\Илья\Desktop\Выполненные работы\ООП\Laba8\obj\Debug\Laba8.Form1.resources
+C:\Users\Илья\Desktop\Выполненные работы\ООП\Laba8\obj\Debug\Laba8.Properties.Resources.resources
+C:\Users\Илья\Desktop\Выполненные работы\ООП\Laba8\obj\Debug\Laba8.csproj.GenerateResource.cache
+C:\Users\Илья\Desktop\Выполненные работы\ООП\Laba8\obj\Debug\Laba8.csproj.CoreCompileInputs.cache
+C:\Users\Илья\Desktop\Выполненные работы\ООП\Laba8\obj\Debug\Laba8.exe
+C:\Users\Илья\Desktop\Выполненные работы\ООП\Laba8\obj\Debug\Laba8.pdb
